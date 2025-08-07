@@ -81,7 +81,7 @@ response3 = get_fireworks_response(user_input)
 
 🌟 Star the repo if you like it!<br>
 
-📧 Contact: Zaky.ai.solutions@gmail.com<br>
+📧 Contact: Khaled.edu.engineer@gmail.com<br>
 
 
 
