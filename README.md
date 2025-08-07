@@ -61,9 +61,11 @@ pip install -r requirements.txt
 ```
 ## 🔐 Setup: 
 **Create .env File**
-- Rename the .env.example to be .env and enter your API Keys and Models names
+- Rename the ```.env.example``` to be ```.env``` and enter your API Keys and Models names<br>
+
 **System Prompt**
 - Enter your system prompt in system_prompt.txt file
+
 **Import into your code**
 ```bash
 from llm_providers import *
